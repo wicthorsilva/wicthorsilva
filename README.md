@@ -1,4 +1,5 @@
-###  Oii! Meu nome é Wicthor !
+###  Oii! Meu nome é Wicthor, sou estudante na area de desenvolvimento de sistemas.
+#### Cursando análise e desenvolvimento de sistemas além de curso extra para desenvolvimento web.
 Seja bem vindo ao meu perfil
 
 ##
