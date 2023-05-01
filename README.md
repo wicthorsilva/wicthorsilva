@@ -1,6 +1,7 @@
-###  Oii! Meu nome é Wicthor, sou estudante na area de desenvolvimento de sistemas.
+###  Oii! Meu nome é Wicthor, sou estudante na área de desenvolvimento de sistemas.
 #### Cursando análise e desenvolvimento de sistemas além de curso extra para desenvolvimento web.
-Seja bem vindo ao meu perfil
+
+🔭 Atualmente aprendendo sistema de backoffice.
 
 ##
 
@@ -8,8 +9,6 @@ Seja bem vindo ao meu perfil
 **wicthorsilva/wicthorsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
