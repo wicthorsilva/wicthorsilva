@@ -3,6 +3,10 @@
 
 🔭 Atualmente aprendendo sistema de backoffice.
 
+⚡Curto designer gráfico e marketing digital.
+
+💬 Gosto de filosofar sobre assuntos diversos.
+
 ##
 
 <!--
