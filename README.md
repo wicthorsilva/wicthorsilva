@@ -1,9 +1,7 @@
-###  Oii! Meu nome é Wicthor, sou estudante na área de desenvolvimento de sistemas.
+###  Oii! Meu nome é Wicthor, sou desenvolvedor de software para web.
 🌱  Cursando análise e desenvolvimento de sistemas além de curso extra para desenvolvimento web.
 
-🔭  Atualmente aprendendo sistema de backoffice.
-
-⚡ Curto designer gráfico e marketing digital.
+⚡  Gosto de designer gráfico e marketing digital.
 
 💬  Gosto de filosofar sobre assuntos diversos.
 
