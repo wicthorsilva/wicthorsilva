@@ -7,7 +7,7 @@
 
 💬  Gosto de filosofar sobre assuntos diversos.
 
-✨  <a href="https://wicthorsilva.github.io/portfolio-wicthor/"  target="_blank">Portfólio</a>
+✨  <a href="https://wicthorsilva.github.io/portfolio-wicthor/"  target="_blank">Portfólio</a> em desenvolvimento
 
 ##
 
