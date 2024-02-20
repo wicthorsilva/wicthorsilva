@@ -1,5 +1,5 @@
 ###  Oii! Meu nome é Wicthor, sou desenvolvedor de software para web.
-🌱  Cursando análise e desenvolvimento de sistemas além de curso extra para desenvolvimento web.
+🌱  Superior em Análise E Desenvolvimento De Sistemas.
 
 ⚡  Gosto de designer gráfico e marketing digital.
 
