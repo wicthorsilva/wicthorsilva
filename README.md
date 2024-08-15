@@ -1,5 +1,5 @@
 ###  Oii! Meu nome é Wicthor, sou desenvolvedor de software para web.
-🌱  Superior em Análise E Desenvolvimento De Sistemas.
+🌱  Formado em Análise E Desenvolvimento De Sistemas.
 
 ⚡   Desenvolvedor de software FullStack.
 
